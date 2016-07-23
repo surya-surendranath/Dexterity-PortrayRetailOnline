@@ -1,0 +1,19 @@
+{
+  "name": "portrayretailonline",
+  "version": "1.0.0",
+  "description": "A retail website for my friend who wanted to sell his paintings through online",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surya-surendranath/Dexterity-PortrayRetailOnline.git"
+  },
+  "author": "Surya S Nath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surya-surendranath/Dexterity-PortrayRetailOnline/issues"
+  },
+  "homepage": "https://github.com/surya-surendranath/Dexterity-PortrayRetailOnline#readme"
+}
